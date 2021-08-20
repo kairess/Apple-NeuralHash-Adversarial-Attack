@@ -1,3 +1,14 @@
+## Reference
+
+- https://9to5mac.com/2021/08/05/apple-announces-new-protections-for-child-safety-imessage-safety-icloud-photo-scanning-more/
+- https://9to5mac.com/2021/08/18/apples-csam-detection-reverse-engineered/
+- https://github.com/AsuharietYgvar/AppleNeuralHash2ONNX
+- https://en.wikipedia.org/wiki/Perceptual_hashing
+- https://github.com/yk/neural_hash_collision
+- https://github.com/greentfrapp/apple-neuralhash-attack
+
+---
+
 # AppleNeuralHash2ONNX
 
 Convert Apple NeuralHash model for [CSAM Detection](https://www.apple.com/child-safety/pdf/CSAM_Detection_Technical_Summary.pdf) to [ONNX](https://github.com/onnx/onnx).
