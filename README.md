@@ -1,3 +1,19 @@
+# Apple NeuralHash Adversarial Attack
+
+Apple's NeuralHash model recognizes the first and the last photos are exactly same.
+
+![](images/result1.png)
+
+![](images/result2.png)
+
+## Run and Test
+
+```hack.ipynb```
+
+## How to Extract and Convert the NeuralHash Model
+
+See below `Asuhariet Ygvar`'s documentation.
+
 ## Reference
 
 - https://9to5mac.com/2021/08/05/apple-announces-new-protections-for-child-safety-imessage-safety-icloud-photo-scanning-more/
